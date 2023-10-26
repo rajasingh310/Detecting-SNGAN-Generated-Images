@@ -36,10 +36,10 @@ The given zip file contains the following folders
 SVM and logistic regression by extracting simple features from 2D DFT. To run this code open this folder in Python ide, add the train and test dataset to this folder, and run the main.py file. Please refer to the code for more details.
 
 
-2.'raml_ss2022_1530580_1537745_report': This is the report file
+2. 'raml_ss2022_1530580_1537745_report': This is the report file
 
-3.'raml_ss2022_1530580_1537745_presentation': This is the presentation file.
+3. 'raml_ss2022_1530580_1537745_presentation': This is the presentation file.
 
 4. 'RamlDeepFake': This file contains lecture slides.
 
-5.'Matlab code Raml': This folder contains codes for Detecting Generated Images with deep learning methods (CNN). To run this code please run 'raml_main_file.m' in Matlab and add the path for training and test datasets in the code. Please install the required packages and read the code.
+5. 'Matlab code Raml': This folder contains codes for Detecting Generated Images with deep learning methods (CNN). To run this code please run 'raml_main_file.m' in Matlab and add the path for training and test datasets in the code. Please install the required packages and read the code.
